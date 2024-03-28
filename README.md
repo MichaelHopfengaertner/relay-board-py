@@ -1,4 +1,2 @@
-# Relay board py package
-This is the python package for relay boards.
+The project was moved to: https://github.com/embforge/relay-board-py.
 
-The documentation can be found [here](https://github.com/MichaelHopfengaertner/relay-board-py/tree/main/doc).
